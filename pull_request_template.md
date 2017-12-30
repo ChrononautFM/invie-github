@@ -1,7 +1,7 @@
 # Descripción.
 ¿Qué ha cambiado?
 
-- [ ] Frontend.
+- [.] Frontend.
 - [ ] Backend.
 - [ ] Configuración del server.
 
